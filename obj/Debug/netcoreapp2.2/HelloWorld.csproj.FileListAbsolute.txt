@@ -1,0 +1,11 @@
+/Users/NoahBerko/Desktop/Spring19/ACCTMIS 3610/ACCTMIS_root/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.deps.json
+/Users/NoahBerko/Desktop/Spring19/ACCTMIS 3610/ACCTMIS_root/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.json
+/Users/NoahBerko/Desktop/Spring19/ACCTMIS 3610/ACCTMIS_root/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.dev.json
+/Users/NoahBerko/Desktop/Spring19/ACCTMIS 3610/ACCTMIS_root/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.dll
+/Users/NoahBerko/Desktop/Spring19/ACCTMIS 3610/ACCTMIS_root/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.pdb
+/Users/NoahBerko/Desktop/Spring19/ACCTMIS 3610/ACCTMIS_root/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csprojAssemblyReference.cache
+/Users/NoahBerko/Desktop/Spring19/ACCTMIS 3610/ACCTMIS_root/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/NoahBerko/Desktop/Spring19/ACCTMIS 3610/ACCTMIS_root/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfoInputs.cache
+/Users/NoahBerko/Desktop/Spring19/ACCTMIS 3610/ACCTMIS_root/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfo.cs
+/Users/NoahBerko/Desktop/Spring19/ACCTMIS 3610/ACCTMIS_root/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.dll
+/Users/NoahBerko/Desktop/Spring19/ACCTMIS 3610/ACCTMIS_root/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.pdb
